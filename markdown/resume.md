@@ -1,4 +1,4 @@
-Johnny Coder
+Mauricio Meléndez
 ============
 
 ----
@@ -72,7 +72,7 @@ Programming Languages
 :   **second-lang:** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
     reference elsewhere in the document to reduce clutter (see source
-    file). 
+    file).
 
 :   **obscure-but-impressive-lang:** We both know this one's pushing
     it.
